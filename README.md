@@ -4,7 +4,7 @@ Here I did a number of data visualization examples on different datasets I found
 various visualization techniques and plots. Datasets can be found in the links provided below if readers are
 interested in attempting on any of them.
 
-__1. Santander Customer Transaction Prediction - Kaggle Competition___
+### Santander Customer Transaction Prediction - Kaggle Competition
 
 In this challenge, Santander invites Kagglers to help them identify which customers will make a specific
 transaction in the future, irrespective of the amount of money transacted. The data provided for this competition
