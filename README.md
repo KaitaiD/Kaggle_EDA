@@ -19,3 +19,12 @@ EDA provides an overview of the industry on an aggregate scale, but it also leav
 Therefore, this notebook aims to tell a rich story about a subset of the data science and machine learning community.
 
 The link to the dataset used is: [2018 Kaggle ML and DS Survey](https://www.kaggle.com/kaggle/kaggle-survey-2018)
+
+## Install dependencies
+If you want to run all the notebooks in this repository, you could run the code below in your terminal to install all needed packages:
+
+'''
+pip install -r requirements.txt
+'''
+
+

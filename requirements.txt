@@ -3,3 +3,7 @@ pandas
 seaborn
 matplotlib
 scikit-learn
+matplotlib_venn
+plotly
+IPython
+wordcloud
