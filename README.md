@@ -22,7 +22,9 @@ The link to the dataset used is: [2018 Kaggle ML and DS Survey](https://www.kagg
 
 ### 2019 Kaggle ML & DS Survey
 
-It is Kaggle's third annual Machine Learning and Data Science Survey ― and its second survey data challenge. A deep insight
+It is Kaggle's third annual Machine Learning and Data Science Survey ― and its second survey data challenge. A deep insight of the job selection (big company or small startup) is given based on the users survey.
+
+The link to the dataset used is: [2019 Kaggle ML and DS Survey](https://www.kaggle.com/kaggle/kaggle-survey-2019)
 
 ## Install dependencies
 If you want to run all the notebooks in this repository, you could run the code below in your terminal to install all needed packages:
