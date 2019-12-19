@@ -29,8 +29,8 @@ The link to the dataset used is: [2019 Kaggle ML and DS Survey](https://www.kagg
 ## Install dependencies
 If you want to run all the notebooks in this repository, you could run the code below in your terminal to install all needed packages:
 
-'''
+```bash
 pip install -r requirements.txt
-'''
+```
 
 
