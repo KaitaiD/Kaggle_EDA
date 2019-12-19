@@ -14,11 +14,15 @@ The link to the dataset used is: [Santander Kaggle Competition](https://www.kagg
 
 ### 2018 Kaggle ML & DS Survey
 
-It is Kaggle's second annual Machine Learning and Data Science Survey ― and its first-ever survey data challenge. A survey data
-EDA provides an overview of the industry on an aggregate scale, but it also leaves us wanting to know more about the many specific communities comprised within the survey.
+It is Kaggle's second annual Machine Learning and Data Science Survey ― and its first-ever survey data challenge. A survey data EDA provides an overview of the industry on an aggregate scale, but it also leaves us wanting to know more about the many specific communities comprised within the survey.
+
 Therefore, this notebook aims to tell a rich story about a subset of the data science and machine learning community.
 
 The link to the dataset used is: [2018 Kaggle ML and DS Survey](https://www.kaggle.com/kaggle/kaggle-survey-2018)
+
+### 2019 Kaggle ML & DS Survey
+
+It is Kaggle's third annual Machine Learning and Data Science Survey ― and its second survey data challenge. A deep insight
 
 ## Install dependencies
 If you want to run all the notebooks in this repository, you could run the code below in your terminal to install all needed packages:
