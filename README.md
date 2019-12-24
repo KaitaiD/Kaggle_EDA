@@ -22,7 +22,7 @@ The link to the dataset used is: [2018 Kaggle ML and DS Survey](https://www.kagg
 
 ### 2019 Kaggle ML & DS Survey
 
-It is Kaggle's third annual Machine Learning and Data Science Survey ― and its second survey data challenge. A deep insight of the job selection (big company or small startup) is given based on the users survey.
+It is Kaggle's third annual Machine Learning and Data Science Survey ― and its second survey data challenge. A deep insight of the job selection (big company or small startup) is given based on the users survey. This work has been awarded Bronze medal in the competition.
 
 The link to the dataset used is: [2019 Kaggle ML and DS Survey](https://www.kaggle.com/kaggle/kaggle-survey-2019)
 
