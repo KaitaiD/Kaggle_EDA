@@ -20,7 +20,7 @@ Therefore, this notebook aims to tell a rich story about a subset of the data sc
 
 The link to the dataset used is: [2018 Kaggle ML and DS Survey](https://www.kaggle.com/kaggle/kaggle-survey-2018)
 
-### 2019 Kaggle ML & DS Survey
+### 2019 Kaggle ML & DS Survey (Bronze Medal awarded)
 
 It is Kaggle's third annual Machine Learning and Data Science Survey ― and its second survey data challenge. A deep insight of the job selection (big company or small startup) is given based on the users survey. This work has been awarded Bronze medal in the competition.
 
